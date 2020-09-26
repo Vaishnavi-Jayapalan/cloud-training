@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "project-tracking-system-go",
+  "private_key_id": "47315aeb78a7bdcf139067d72a204f942a8cd364",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxdJ7hjpMFRxCJ\nmmUNOzLQpeYsg6IDS64OlAkhID5zbCfVmmN+Uk2U5guiG64aX0xInoeKPmcDbg9H\nKyxZbVwr1zqqOIH2C7qCVQhwtg1kdZOOCq1BCAqS0hbvu7VSZh2Dy/k6m9D5KkPs\nl6yWt8NxxNjZBpMNCEx9BYyzQZ7VyX0Zn4iPuQk4wqDIRPmEQCWY5onPHgUbjxpb\n4C34p+jZATmuo0cPeIGgwvj0CuuW1PiLOQK/yYpK+xMLtWvWThir0Cccb25WPwyq\nEf4E2vAM9SnNVEa5+Y8DAprHvhI1yGyxZaLxqRj0fmLTObSJelmvlbrNtUjHL0bs\nMRZqFhAFAgMBAAECggEAL9ddiDjcaSVWD4r46F7H3dmEGwcn9BSAqfx+E5iyTYLg\noGU9oo5EzTpR85Pb1c9QbRmUOBCHzDRtWQYKMFfb7BPcBI00eGWEFGQhYOWr6aQL\nMlWtjOVCmH+cYGhuQ3c1SNWCbSsZ5TrgUhY4GPAU+ISV47iyh2Zv3JrU6nTsAf2b\netZCjhQPjMuuxw93NeZGwLrLseBzPX+HOXQPWPeeEdScot+4yVLTcph/Uon10hGn\nFHKymeVgMPuUuCJG+cF4NLMAvJjOqLYTU5J3H2+kw3wxPFbejt1q1TT1pWahgR1M\nkwtj4vnrOYoNVvHIrn0Z5X/PBbJ1fWMBz9p/obmtRwKBgQDmz0Bn9oSww2dFTDyi\n8lXKcPhYJiQ60nDR7FlDCX8BOH/w7gqAwm078DKYsDnLjF0i1nXQERSve1uQDH0Q\n/dfTD2QA5aoAHWeBjZ8Tw8YJTZfNkU4btmMZrOH4fCHZKNV8VTcQsCs95cd68di1\no52iXv00qe+L5NcmvbZH7ki2dwKBgQDE0qyJZnKWtJzcgY5+5vlDW4wJ9vuVyuDh\n4AXyOqQcrBRDABjevkvRK3fedPWu36c/gtJpKPN18LKa+SY2hWARZ4yBGFuoHOHF\nqqIRH2BQZITW/D+8C8+FSX77S+OGYAoTQIP8Psj08zXRNlkkCz1nO3maoI9K3zjO\nAkTiwCSAYwKBgDWDmgBAxPUi6R/FFE4Hd+KvHLV7am0E+8mAThXf7sV+rxNSbbb6\n3U7HW0PRoCTUj4eTR8+NFkm1hT451wmIgXDbIamfljHen3AHQPnZK2JezjKIXR7J\nw+JhFieByGtML2tbaqAA6JW6X+zehAthOxw5f+Wk/Phnf4bo94ln8w3zAoGAdIQ3\nSdvRKDBh0BQOVEfN9jcizt9cjo+c03q4am6WqragBA3xqyNCZOBzxMi+jLiwHOQI\nReLNRdupEB9ApPQOLB99yQqvb/UxHsBl0vcdIFpxXYfU/zCKuGALAR8q4WjHbiA6\nQkC03HWCPYkL+k+BGTTXR1eXnH5K9YHYX9fZg/sCgYBQEBQhBt8j1jYRRVjscE0a\nI6Kpq+xCAEUo+ry21nmWg5rJVqdGqWLiy/V140PjLIEL4NIeDkYmk92poYI6J5Xu\nd4N8eKGcnL/mu+RskvHYZa+3ukNDwuHyMYl+vOjnM7jNKs+YZMY+YVk1lVj5i7fP\n9k6IMUXGaHC7T6GiThA46w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "asset-management@project-tracking-system-go.iam.gserviceaccount.com",
+  "client_id": "102074227350840481898",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/asset-management%40project-tracking-system-go.iam.gserviceaccount.com"
+}

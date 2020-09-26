@@ -1,0 +1,10 @@
+- model: asset.FileType
+  pk: 1
+  fields:
+    type: image
+    maxSize: 10
+- model: asset.FileType
+  pk: 2
+  fields:
+    type: document
+    maxSize: 10
