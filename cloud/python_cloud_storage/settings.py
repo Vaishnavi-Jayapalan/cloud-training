@@ -22,7 +22,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '&e07$(z-aaxphah*%jw93wtu0f9c1awj__t5p(5u)gj8mgfx=r'
 
-GOOGLE_APPLICATION_CREDENTIALS = os.path.join(BASE_DIR, 'customer-management-288011-94ec2a8b3aa1.json')
+GOOGLE_APPLICATION_CREDENTIALS = os.path.join(BASE_DIR, 'customer-316209-060a59a66ec5.json')
 
 BUCKET_NAME = 'cust-asset'
 
